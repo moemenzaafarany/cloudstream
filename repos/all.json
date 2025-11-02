@@ -1,7 +1,7 @@
 {
   "name": "m cloudstream repo",
   "description": "Collection of working plugins for Cloudstream.",
-  "manifestVersion": 1,
+  "manifestVersion": 2,
   "pluginLists": [
     "https://raw.githubusercontent.com/moemenzaafarany/cloudstream/refs/heads/main/repos/lists/external.json"
   ]
