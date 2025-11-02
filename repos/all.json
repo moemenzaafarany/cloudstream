@@ -1,0 +1,8 @@
+{
+  "name": "Moemen Cloudstream Repo",
+  "description": "Collection of working plugins for Cloudstream maintained by Moemen.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    
+  ]
+}
